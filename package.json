@@ -1,5 +1,5 @@
 {
-  "name": "c230",
+  "name": "C230FI.github.io",
   "version": "1.0.0",
   "description": "This is a tech challenge for C230 Fundacion IDEA.",
   "main": "index.js",
@@ -30,12 +30,9 @@
     "url": "git+https://github.com/Varonss/C230FI.github.io"
   },
   "keywords": [
-    "Tech",
-    "Challenge",
     "C230",
-    "Consultores",
-    "Fundacion",
-    "IDEA"
+    "Melp",
+    "Fundacion IDEA"
   ],
   "author": "Ricardo Martin Varona Dominguez",
   "license": "ISC",
