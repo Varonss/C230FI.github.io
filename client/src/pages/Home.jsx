@@ -1,6 +1,6 @@
 import React from "react";
 
-import RestaurantList from "../components/home/restaurant.jsx";
+import RestaurantList from "../component/Home/restaurant.jsx";
 
 
 class Restaurants extends React.Component {
